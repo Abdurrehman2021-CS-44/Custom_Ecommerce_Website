@@ -1,0 +1,93 @@
+body
+{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #464448;
+}
+.myBox
+{
+    height: 330px;
+    width: 245px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    box-shadow: 3px 3px gray;
+    margin: auto;
+    background-color: white;
+    padding: 40px;
+}
+#item1
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item2
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item3
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item4
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item5
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item6
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item7
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item8
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item9
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#item10
+{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.Size
+{
+    height: 70%;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+#Left
+{
+    float: right;
+}
